@@ -5,7 +5,7 @@
 HTML <!DOCTYPE> Declaration
 
 Definition and Usage
-All HTML documents must start with a ```bash <!DOCTYPE>``` declaration.
+All HTML documents must start with a ```<!DOCTYPE>``` declaration.
 
 The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect.
 
@@ -97,6 +97,6 @@ $ <a href=''>page name</a>
 
 ## DEVELOPER TOOLS
 
-![SAMUEL EFFIONG SUBLINE IMAGE](/IMG/samuel%20effiong%20subline%20image.jfif)[SUBLIME](https://www.sublimetext.com/)
+![SAMUEL EFFIONG SUBLINE IMAGE](/IMG/samuel%20effiong%20css%20image.jfif)(<https://www.sublimetext.com/>)
 
-![SAMUEL EFFIONG VSCODE IMAGE](/IMG/samuel%20effiong%20vs%20code%20transparent.png)[VSCODE](https://code.visualstudio.com/)
+![SAMUEL EFFIONG VSCODE IMAGE](/IMG/samuel%20effiong%20vs%20code%20transparent.png)(<https://code.visualstudio.com/>)
