@@ -97,6 +97,6 @@ $ <a href=''>page name</a>
 
 ## DEVELOPER TOOLS
 
-![SAMUEL EFFIONG SUBLINE IMAGE](/IMG/samuel%20effiong%20subline%20image.jfif)[SUBLIME]()
+![SAMUEL EFFIONG SUBLINE IMAGE](/IMG/samuel%20effiong%20subline%20image.jfif)[SUBLIME](https://www.sublimetext.com/)
 
-![SAMUEL EFFIONG VSCODE IMAGE](/IMG/samuel%20effiong%20vs%20code%20transparent.png)[VSCODE]()
+![SAMUEL EFFIONG VSCODE IMAGE](/IMG/samuel%20effiong%20vs%20code%20transparent.png)[VSCODE](https://code.visualstudio.com/)

@@ -1,6 +1,6 @@
 # HTML AND CSS
 
-![SAMUEL EFFIONG JACOB HTML AND CSS IMAGE](/IMG/samuel%20effiong%20css%20image.jfif)
+![SAMUEL EFFIONG JACOB HTML AND CSS IMAGE](/IMG/samueleffiong%20html%20and%20css%20image.jfif)
 
 ## HTML: HyperText Markup Language [SEE MORE PRACTICAL HERE](/HTML/README.md)
 
