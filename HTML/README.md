@@ -84,11 +84,27 @@ $ <img src""  height=''  width='' alt=''>
 
 # Anchor tag
 $ <a href=''>page name</a>
+
+# How To Add a Favicon in HTML visit below
+$ https://www.favicon.cc/
+
+# Next, add a <link> element to your "index.html" file, after the <title> element, like this:
+$ <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+# or 
+$ <link rel="shortcut icon" type="image/jpg" href="Favicon_Image_Location"/>
 ```
 
 [see more tags here](https://www.w3schools.com/tags/tag_doctype.asp)
 
 [ADVANCE HTML READ MORE HERE](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[ADD A FAVICON](https://www.digitalocean.com/community/tutorials/how-to-add-a-favicon-to-your-website-with-html)
+
+or
+
+[ADD A FAVICON METHOD 2](https://www.w3schools.com/html/html_favicon.asp)
+![SEE HOW FAVICON LOOKS THE BLACK ARROW POINT](/IMG/samuel%20effiong%20showing%20icons%20.PNG)
 
 ## WHY DO WE START HTML WITH index.html
 
