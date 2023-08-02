@@ -17,6 +17,10 @@ In HTML 5, the declaration is simple:
 
 Browser Support
 all browsers
+| chrome       |logo   |
+|--------------|:-----:|
+| serfara      |       |
+| firefox      |       |
 
 HTML TAGS
 
@@ -24,7 +28,7 @@ HTML TAGS
 
 # header tags
 
-$ <h1></h1> to <h6></h6>
+$ <h1></h1> to <h6></h6> 
 
 # Italian word tag
 
@@ -93,6 +97,11 @@ $ <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 
 # or 
 $ <link rel="shortcut icon" type="image/jpg" href="Favicon_Image_Location"/>
+
+# readme
+$ https://markdown.land/readme-md
+
+$ https://www.markdownguide.org/cheat-sheet/
 ```
 
 [see more tags here](https://www.w3schools.com/tags/tag_doctype.asp)
@@ -113,7 +122,7 @@ or
 
 ## DEVELOPER TOOLS
 
-[SUBLIME TEXT](https://www.sublimetext.com/)
+[SUBLIME TEXT DOWNLOAD HERE](https://www.sublimetext.com/)
 
 ![SAMUEL EFFIONG SUBLIME IMAGE](/IMG/samuel%20effiong%20subline%20image.jfif)
 

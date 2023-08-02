@@ -33,7 +33,7 @@ Cascading Style Sheets (CSS) is a stylesheet language used to describe the prese
 
 ## DEVELOPER TOOLS
 
-[SUBLIME TEXT](https://www.sublimetext.com/)
+[SUBLIME TEXT DOWNLOAD HERE](https://www.sublimetext.com/)
 
 ![SAMUEL EFFIONG SUBLIME IMAGE](/IMG/samuel%20effiong%20subline%20image.jfif)
 
