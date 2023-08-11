@@ -6,7 +6,6 @@ body{
     flex-wrap: wrap;
     justify-content: center;
 }
-
 h1{
     font-family: fantasy;
     font-size: 3em;
@@ -14,7 +13,12 @@ h1{
     border-right: 2px solid pink;
     width: 400px;
     text-align: center;
+    -moz-box-shadow: 4px 4px 5px #888888;
+    -ms-box-shadow: 4px 4px 5px #888888;
+    -webkit-box-shadow: 4px 4px 5px #888888;
+    -o-box-shadow: 4px 4px 5px #888888;
     box-shadow: 4px 4px 5px #888888;
+    margin-top: 10px;
 }
 img {
     width: 450px;
