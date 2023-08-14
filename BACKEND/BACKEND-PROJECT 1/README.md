@@ -435,6 +435,4 @@ Contributions are more than welcome! Please check out the [contributing guide](C
 - [madhums/node-express-mongoose](https://github.com/madhums/node-express-mongoose)
 - [kunalkapadia/express-mongoose-es6-rest-api](https://github.com/kunalkapadia/express-mongoose-es6-rest-api)
 
-## License
 
-[MIT](LICENSE)
