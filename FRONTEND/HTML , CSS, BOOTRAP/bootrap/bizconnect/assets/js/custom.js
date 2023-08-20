@@ -2,7 +2,7 @@
 jQuery(function($) {
     "use strict";
     /*==================================
-        * Author        : airondev
+        * Author        : SAMUEL EFFIONG
     ==================================== */
 
     var $grid = $('.grid'),

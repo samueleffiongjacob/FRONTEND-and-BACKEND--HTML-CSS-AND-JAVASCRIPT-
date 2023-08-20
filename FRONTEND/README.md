@@ -31,6 +31,14 @@ However, the convention and recommended practice is to write tags in lowercase.
 
 Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
 
+## [EMAIL TEMPLATE FOR HTML](https://mailchimp.com/)
+## [github hosting](https://github.io/)
+
+## [CSS ANIMATIONS](https://animate.style/)
+
+## [CSS ANIMATIONS github](https://github.com/animate-css/animate.css)
+
+## [FREE TEMPLATE](https://www.creative-tim.com/)
 ## REACT
 
 [30 DAYS REACT](/FRONTEND/30-Days-Of-React/)
@@ -44,3 +52,6 @@ if u are new this template could be of help to you
 ## DEVELOPER TOOLS
 
 [![SAMUEL EFFIONG SUBLIME IMAGE](/FRONTEND/HTML%20,%20CSS,%20BOOTRAP//IMG/samuel%20effiong%20subline%20image.png)](https://www.sublimetext.com/)       [![SAMUEL EFFIONG VSCODE IMAGE](/FRONTEND/HTML%20,%20CSS,%20BOOTRAP//IMG/samuel%20effiong%20vs%20code%20transparent%20%20150%20x%20150.png)](https://code.visualstudio.com/) [![YOU RESIZE IMAGE HERE](/FRONTEND/HTML%20,%20CSS,%20BOOTRAP/IMG/imageresizer.com.jpeg)](https://imageresizer.com/)
+
+Browser Refresh for Sublime Text This plugin adds a keyboard shortcut to Sublime Text that will refresh the browser of your choice. Optionally the plugin can "auto save" your current file and bring the desired browser to the foreground. The default keyboard shortcuts are:
+``` ⌘ + Shift + R (Mac) Ctrl + Shift + R (Windows, Linux)```
