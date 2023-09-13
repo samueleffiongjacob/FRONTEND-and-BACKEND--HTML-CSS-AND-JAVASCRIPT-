@@ -39,6 +39,8 @@ Cascading Style Sheets (CSS) is a stylesheet language used to describe the prese
 ## [CSS ANIMATIONS github](https://github.com/animate-css/animate.css)
 
 ## [FREE TEMPLATE](https://www.creative-tim.com/)
+
+## [mashup](https://www.producthunt.com/products/mashup-template)
 ## REACT
 
 [30 DAYS REACT](/FRONTEND/30-Days-Of-React/)

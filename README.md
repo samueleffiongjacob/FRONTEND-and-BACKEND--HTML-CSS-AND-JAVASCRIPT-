@@ -1,4 +1,4 @@
-# front and Backend is fun
+# front and Backend is fun START out your joney here
 
 ## [frontend](/FRONTEND/)
 
@@ -10,3 +10,5 @@
 
 Browser Refresh for Sublime Text This plugin adds a keyboard shortcut to Sublime Text that will refresh the browser of your choice. Optionally the plugin can "auto save" your current file and bring the desired browser to the foreground. The default keyboard shortcuts are:
 ``` ⌘ + Shift + R (Mac) Ctrl + Shift + R (Windows, Linux)```
+
+[pay course](https://zerotomastery.io/courses/#roadmap)
