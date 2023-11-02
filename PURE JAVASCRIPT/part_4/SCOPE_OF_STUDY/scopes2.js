@@ -6,14 +6,16 @@ function isUserValid(bool){
     return bool
 }
 
-var answer = isUserValid(false) ?  "you may enter" : "ACCESS DENIED"
+// tenary operator
+var answer = isUserValid(false) ?  "you may enter" : "ACCESS DENIED"// or true
 console.log(answer)
 
 var automatedAnswer =
-    "your account # is not available" + (isUserValid(false) ? "1234": "not available")
+    "your account # is not available" + (isUserValid(false) ? "1234": "not available") // or fasle
 
 console.log(automatedAnswer)
 
+// tenary opertor is better tan this
 function condition(){
     if (isUserValid){
         return "You may enter";
@@ -24,6 +26,7 @@ function condition(){
 
 var answer2 = condition();
 
+// switch statement
 function moveCommand(direction){
     var whatHappens;
     switch (direction){
